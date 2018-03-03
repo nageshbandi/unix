@@ -1,0 +1,43 @@
+Script started on Mon 26 Feb 2018 01:36:28 PM IST
+]0;bandi@bandi:~]7;file://bandi/home/bandi[?1034h[bandi@bandi ~]$ ls -il
+total 0
+ 2217354 drwxr-xr-x. 2 bandi bandi  6 Feb 26 00:41 [0m[38;5;27mDesktop[0m
+ 2217355 drwxr-xr-x. 2 bandi bandi  6 Feb 26 00:41 [38;5;27mDocuments[0m
+18263660 drwxr-xr-x. 2 bandi bandi  6 Feb 26 00:41 [38;5;27mDownloads[0m
+18263661 drwxr-xr-x. 2 bandi bandi  6 Feb 26 00:41 [38;5;27mMusic[0m
+51175844 drwxrwxr-x. 2 bandi bandi 70 Feb 26 00:53 [38;5;27mnagesh[0m
+33575001 drwxr-xr-x. 2 bandi bandi  6 Feb 26 00:41 [38;5;27mPictures[0m
+52921918 drwxr-xr-x. 2 bandi bandi  6 Feb 26 00:41 [38;5;27mPublic[0m
+33575000 drwxr-xr-x. 2 bandi bandi  6 Feb 26 00:41 [38;5;27mTemplates[0m
+51175898 -rw-rw-r--. 1 bandi bandi  0 Feb 26 13:36 typescript
+52921919 drwxr-xr-x. 2 bandi bandi  6 Feb 26 00:41 [38;5;27mVideos[0m
+]0;bandi@bandi:~]7;file://bandi/home/bandi[bandi@bandi ~]$ mkdir [K[K[K[K[K[Kcd nagesh
+]0;bandi@bandi:~/nagesh]7;file://bandi/home/bandi/nagesh[bandi@bandi nagesh]$ ls -il
+total 4
+51175883 -rw-rw-r--. 1 bandi bandi 21 Feb 26 00:53 51175881
+51175881 -rwxrw-r--. 1 bandi bandi  0 Feb 26 00:51 [0m[38;5;34mfile.sh[0m
+51175876 -rw-rw-r--. 1 bandi bandi  0 Feb 26 00:51 file.text
+51175880 -rw-rw-r--. 1 bandi bandi  0 Feb 26 00:51 file.txt
+]0;bandi@bandi:~/nagesh]7;file://bandi/home/bandi/nagesh[bandi@bandi nagesh]$ cd 
+]0;bandi@bandi:~]7;file://bandi/home/bandi[bandi@bandi ~]$ exit
+exit
+Script done on Mon 26 Feb 2018 01:37:17 PM IST
+hai this is new login
+Script started on Mon 26 Feb 2018 01:38:50 PM IST
+]0;bandi@bandi:~]7;file://bandi/home/bandi[?1034h[bandi@bandi ~]$ ls -il
+total 4
+ 2217354 drwxr-xr-x. 2 bandi bandi    6 Feb 26 00:41 [0m[38;5;27mDesktop[0m
+ 2217355 drwxr-xr-x. 2 bandi bandi    6 Feb 26 00:41 [38;5;27mDocuments[0m
+18263660 drwxr-xr-x. 2 bandi bandi    6 Feb 26 00:41 [38;5;27mDownloads[0m
+18263661 drwxr-xr-x. 2 bandi bandi    6 Feb 26 00:41 [38;5;27mMusic[0m
+51175844 drwxrwxr-x. 2 bandi bandi   70 Feb 26 00:53 [38;5;27mnagesh[0m
+33575001 drwxr-xr-x. 2 bandi bandi    6 Feb 26 00:41 [38;5;27mPictures[0m
+52921918 drwxr-xr-x. 2 bandi bandi    6 Feb 26 00:41 [38;5;27mPublic[0m
+33575000 drwxr-xr-x. 2 bandi bandi    6 Feb 26 00:41 [38;5;27mTemplates[0m
+52953577 -rw-rw-r--. 1 bandi bandi 1548 Feb 26 13:38 typescript
+52921919 drwxr-xr-x. 2 bandi bandi    6 Feb 26 00:41 [38;5;27mVideos[0m
+]0;bandi@bandi:~]7;file://bandi/home/bandi[bandi@bandi ~]$ vi [K[K[Kecho "hai thos[K[Kis id[Ks new login" >> typescript 
+]0;bandi@bandi:~]7;file://bandi/home/bandi[bandi@bandi ~]$ exit
+exit
+
+Script done on Mon 26 Feb 2018 01:39:52 PM IST

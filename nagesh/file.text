@@ -1,0 +1,8 @@
+if [[ $1 -gt 3 ]] && [[ $1 -lt 8 ]]; then
+echo "your enterd number is between the 3 to 8 "
+	elif [[ $1 =~ "bandi" ]] || [[ $1 =~ "nagesh" ]]
+then 
+	echo "enterd string is existed in datascience"
+else 
+	echo "you enterd one is not existed $1"
+fi
